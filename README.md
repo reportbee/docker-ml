@@ -17,4 +17,4 @@ The docker image comes with the following installed packages
 
   1. Install Docker engine (Checkout the official docs)
   2. Pull image - `docker pull kaushikrb/rb-ml`
-  3. Run image - `docker run --rm -it -p 6006:6006 -p 8888:8888 kaushikrb/rb-ml`
+  3. Run image - `docker run --restart unless-stopped -p 6006:6006 -p 8888:8888 kaushikrb/rb-ml`
