@@ -1,5 +1,7 @@
 # Docker ML | Report Bee
 
+![Docker Stars](https://img.shields.io/docker/stars/reportbee/datascience.svg?style=flat-square)  ![Docker Pulls](https://img.shields.io/docker/pulls/reportbee/datascience.svg?style=flat-square)  
+
 The docker image comes with the following installed packages
 
   - Base OS: (Ubuntu 18.04)
