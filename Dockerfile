@@ -1,6 +1,6 @@
-FROM ubuntu:18.04
+FROM python:3.6-jessie
 
-LABEL maintainer="Kaushik <kaushik.sundar@in.reportbee.com>"
+LABEL maintainer="Report Bee <www.reportbee.com>"
 
 
 RUN apt-get update

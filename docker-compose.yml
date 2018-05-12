@@ -3,4 +3,4 @@ version: '3'
 services:
   DSVM:
     build: .
-    image: rb-datascience
+    image: datascience
