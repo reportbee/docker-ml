@@ -22,6 +22,7 @@ The docker image comes with the following installed packages
   1. Install Docker CE ([Install])
   2. Pull image - `docker pull reportbee/datascience`
   3. Run image - `docker run --rm -d -p 6006:6006 -p 8888:8888 reportbee/datascience:latest`
+  4. Open your browser and goto localhost:8888 and use the password reportbee to login to the jupyter notebook
 
 # Quick References
 
