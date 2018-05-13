@@ -1,11 +1,12 @@
-# Docker ML | Report Bee 🐝
+# Docker ML | Report Bee
 
-![Docker Stars](https://img.shields.io/docker/stars/reportbee/datascience.svg?style=flat-square)  ![Docker Pulls](https://img.shields.io/docker/pulls/reportbee/datascience.svg?style=flat-square)  
+![Docker Stars](https://img.shields.io/docker/stars/reportbee/datascience.svg?style=flat-square)  ![Docker Pulls](https://img.shields.io/docker/pulls/reportbee/datascience.svg?style=flat-square)   Build with 🍯 by 🐝🐝🐝
 
 The docker image comes with the following installed packages
 
-  - Python Version: 3.6
+  - Python Version: 3.6 
   - Tensorflow - 1.7
+  - Tensorflow Object detection and its dependencies
   - Keras (latest)
   - Numpy 1.13.3
   - Scipy (latest)
@@ -27,7 +28,7 @@ The docker image comes with the following installed packages
   - **Where to raise issues ?**
   [Github Issues]
   - **Maintained by**
-  [Report Bee]. Build with 🍯 by a 🐝
+  [Report Bee]
   - **Image Source**
   [Github]
    
