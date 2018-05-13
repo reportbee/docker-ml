@@ -22,7 +22,7 @@ The docker image comes with the following installed packages
   1. Install Docker CE ([Install])
   2. Pull image - `docker pull reportbee/datascience`
   3. Run image - `docker run --rm -d -p 6006:6006 -p 8888:8888 reportbee/datascience:latest`
-  4. Open your browser and goto localhost:8888 and use the password reportbee to login to the jupyter notebook
+  4. Open your browser and goto localhost:8888 and use the password `reportbee` to login to the jupyter notebook
 
 # Quick References
 
@@ -32,8 +32,11 @@ The docker image comes with the following installed packages
   [Report Bee]
   - **Image Source**
   [Github]
+  - **Medium**
+  [Article]
    
 [Install]: <https://www.docker.com/community-edition>
 [Github]: <https://github.com/reportbee/docker-ml>
 [Github Issues]: <https://github.com/reportbee/docker-ml/issues>
 [Report Bee]: <https://www.reportbee.com>
+[Article]: <https://medium.com/@kaushiksundar/docker-image-for-machine-learning-and-data-science-44bbdb917d4a>
